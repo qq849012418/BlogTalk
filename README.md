@@ -1,2 +1,2 @@
 # BlogTalk
-个人博客评论
+Personal blog comments, especially thank gitalk.
